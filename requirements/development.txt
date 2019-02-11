@@ -13,3 +13,4 @@ xlrd
 Redis
 django-redis
 raven
+djangorestframework-jwt
