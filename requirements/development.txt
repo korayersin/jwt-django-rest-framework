@@ -1,0 +1,15 @@
+Django>=1.8,<2.
+coreapi
+djangorestframework
+Markdown
+django-filter
+django-cors-headers
+django-material==1.1.0
+django-cleanup
+requests
+celery==4.1.1
+SQLAlchemy==1.2.0
+xlrd
+Redis
+django-redis
+raven
